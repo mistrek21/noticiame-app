@@ -1,7 +1,7 @@
 function EnterPage() {
     return (
         <div>
-<h1>h</h1>
+            <h1>Log In</h1>
         </div>
     )
 }
