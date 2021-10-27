@@ -1,4 +1,4 @@
-function Loader({show}) {
+function Loader({ show }) {
     return show ? <div className="loader"></div> : null
 }
 

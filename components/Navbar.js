@@ -3,7 +3,7 @@ import { useContext } from 'react'
 import { UserContext } from '../lib/context'
 
 function Navbar() {
-    const {user, username} = useContext(UserContext)
+    const { user, username } = useContext(UserContext)
 
     return (
         <nav className="navbar">
